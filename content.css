@@ -1,0 +1,16 @@
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes catBob {
+  0%,100% { transform: translateY(0px) scale(1); }
+  50%      { transform: translateY(-6px) scale(1.02); }
+}
+#cat-ui {
+  animation: slideUp 0.2s ease forwards;
+}
+#cat-ui textarea::-webkit-scrollbar { width: 4px; }
+#cat-ui textarea::-webkit-scrollbar-thumb {
+  background: rgba(120,80,255,0.4);
+  border-radius: 4px;
+}
