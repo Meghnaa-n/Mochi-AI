@@ -2,11 +2,6 @@
 
 > A floating 3D AI-powered Chrome extension that rewrites your rough ideas into sharp, token-efficient prompts — directly inside ChatGPT and Claude.
 
-![Version](https://img.shields.io/badge/version-1.0.0-7c3aed?style=flat-square)
-![Manifest](https://img.shields.io/badge/manifest-v3-4f46e5?style=flat-square)
-![Groq](https://img.shields.io/badge/powered%20by-Groq%20AI-f97316?style=flat-square)
-![Free](https://img.shields.io/badge/free%20to%20use-100%25-22c55e?style=flat-square)
-
 ---
 
 ## 📸 Screenshots
