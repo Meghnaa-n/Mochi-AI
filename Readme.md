@@ -6,7 +6,7 @@
 
 ## 📸 Screenshots
 
-> **Add your screenshots here.** To add images, place your image files inside a folder called `assets/` in this repo, then replace the placeholders below.
+> **What happens when a floating cat meets prompt engineering.
 
 ### The Cat
 
