@@ -6,7 +6,7 @@
 
 ## 📸 Screenshots
 
-> **What happens when a floating cat meets prompt engineering.
+> What happens when a floating cat meets prompt engineering.
 
 ### The Cat
 
