@@ -212,7 +212,3 @@ POST https://api.groq.com/openai/v1/chat/completions
 - [ ] Prompt templates by category (coding, writing, research)
 
 ---
-
-<div align="center">
-  <strong>Mochi AI</strong> &nbsp;·&nbsp; Built at a hackathon &nbsp;·&nbsp; Powered by <a href="https://groq.com">Groq</a> &nbsp;·&nbsp; Three.js &nbsp;·&nbsp; Chrome MV3
-</div>
